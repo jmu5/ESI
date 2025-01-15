@@ -28,7 +28,7 @@ public class SubsectorData{
 
         try{
             Class.forName("org.sqlite.JDBC");
-            String url="jdbc:sqlite:/var/www/html/ESI/ESI.db.sqlite";
+            String url="jdbc:sqlite:/ESI.db.sqlite";
             conn=DriverManager.getConnection(url);
             System.out.println("Connection to SQLite has been established.");
         }catch(Exception e){
