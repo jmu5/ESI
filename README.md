@@ -4,13 +4,11 @@ Värittää Euroopan kartan eri toimialojen numeeristen arvojen mukaan.
 Alempi osa piirtää valitun maan ja toimialan graafin.
 
 ESI_UPDATE.py
-Lukee numerodatan excel-tiedostosta ja päivittää sen MySQL tietokantaan.
+Lukee numerodatan excel-tiedostosta välilehdittäin ja ajaa MySQL tietokantaan.
 
 SubsectorData.java
-Vastaava Javalla.
+Lukee numerodatan excel-tiedostosta välilehdittäin ja ajaa tietokantaan.
 
 DATA_IND.php
-Vastaava PHP:lla.
+Lukee numerodatan excel-tiedostosta välilehdittäin ja ajaa SQLite-tietokantaan.
 
-malli_kuva.jpeg
-Esimerkki kuva ESI.py piirtämästä kartasta.
