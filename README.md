@@ -1,5 +1,5 @@
 # ESI
-Koodit käsittelevät Eurostatin Economic Sentiment Indicator -tilastojen dataa.  Dataa luetaan sellaisena, kuin se Eurostat sen julkaisee excel-muodossa.
+Koodit käsittelevät Eurostatin Economic Sentiment Indicator -tilastojen dataa.  Dataa luetaan sellaisena, kuin Eurostat sen julkaisee excel-muodossa.
 
 ESI.py 
 Värittää Euroopan kartan eri toimialojen numeeristen arvojen mukaan.
